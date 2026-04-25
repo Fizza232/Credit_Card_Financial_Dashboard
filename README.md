@@ -3,6 +3,9 @@
 and customer data from a SQL database to provide real-time 
 financial insights.
 
+<img width="875" height="497" alt="Image" src="https://github.com/user-attachments/assets/f95b9b98-cf02-4925-9601-f3c1797376cf" />
+<img width="875" height="500" alt="Image" src="https://github.com/user-attachments/assets/66571062-6b8b-4215-9491-512fd20a4018" />
+
 ## Objective
 To monitor credit card business performance by analyzing 
 revenue, interest earned and transaction patterns across 
